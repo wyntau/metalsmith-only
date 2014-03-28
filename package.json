@@ -1,0 +1,32 @@
+{
+  "name": "metalsmith-only",
+  "version": "0.0.1",
+  "description": "a file's attribute filter for metalsmith",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jeremial/metalsmith-only"
+  },
+  "keywords": [
+    "metalsmith",
+    "only",
+    "filter"
+  ],
+  "author": "Jeremial",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jeremial/metalsmith-only/issues"
+  },
+  "homepage": "https://github.com/Jeremial/metalsmith-only",
+  "dependencies": {
+    "only": "0.0.2"
+  },
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "metalsmith": "^0.5.0",
+    "mocha": "^1.18.2"
+  }
+}
