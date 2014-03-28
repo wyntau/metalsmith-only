@@ -1,5 +1,5 @@
 ## metalsmith-only
-a file's attribute filter for metalsmith
+a file's attribute `only` filter for metalsmith
 
 ### Usage
 ```js
