@@ -1,6 +1,10 @@
 ## metalsmith-only
 a file's attribute `only` filter for metalsmith
 
+### Install
+
+    npm install metalsmith-only
+
 ### Usage
 ```js
 var metalSmith = require('metalsmith');

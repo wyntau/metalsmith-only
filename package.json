@@ -1,7 +1,7 @@
 {
   "name": "metalsmith-only",
-  "version": "0.0.3",
-  "description": "a file's attribute filter for metalsmith",
+  "version": "0.0.4",
+  "description": "a file's attribute `only` filter for metalsmith",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha"
@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/Jeremial/metalsmith-only",
   "dependencies": {
-    "jistype": "0.0.3"
+    "jistype": "0.0.4"
   },
   "devDependencies": {
     "chai": "^1.9.1",
