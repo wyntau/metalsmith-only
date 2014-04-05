@@ -1,9 +1,10 @@
 ## metalsmith-only
+[![NPM version](https://badge.fury.io/js/metalsmith-only.png)](http://badge.fury.io/js/metalsmith-only) [![Dependencies Status](https://david-dm.org/Jeremial/metalsmith-only.png)](https://david-dm.org/Jeremial/metalsmith-only)
+
 a file's attribute `only` filter for metalsmith
 
 ### Install
-
-    npm install metalsmith-only
+[![metalsmith-only](https://nodei.co/npm/metalsmith-only.png?compact=true)](https://nodei.co/npm/metalsmith-only)
 
 ### Usage
 ```js

@@ -1,6 +1,6 @@
 {
   "name": "metalsmith-only",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "a file's attribute `only` filter for metalsmith",
   "main": "index.js",
   "scripts": {
