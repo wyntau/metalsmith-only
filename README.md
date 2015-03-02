@@ -1,5 +1,5 @@
 ## metalsmith-only
-[![NPM version](https://badge.fury.io/js/metalsmith-only.png)](http://badge.fury.io/js/metalsmith-only) [![Dependencies Status](https://david-dm.org/Jeremial/metalsmith-only.png)](https://david-dm.org/Jeremial/metalsmith-only)
+[![NPM version](https://badge.fury.io/js/metalsmith-only.png)](http://badge.fury.io/js/metalsmith-only) [![Dependencies Status](https://david-dm.org/Treri/metalsmith-only.png)](https://david-dm.org/Treri/metalsmith-only)
 
 a file's attribute `only` filter for metalsmith
 
